@@ -23,4 +23,5 @@
 > 13. Create a script that takes a list of words as input and prints only words that appear exactly once   
 	* Input format: One line, one word   
 	* Output format: One line, one word   
-	* Words should be sorted    
+	* Words should be sorted  
+> 14. Display lines containing the pattern “root” from the file /etc/passwd     
